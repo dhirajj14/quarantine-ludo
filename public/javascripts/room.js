@@ -292,9 +292,6 @@ function sendJoinedMessage(name){
        minute: "numeric",
      })}`
    );
-   
-   //Player name Display
-   console.log("Join Name = "+ joinName.value);
   }
 
 /*
