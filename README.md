@@ -1,8 +1,20 @@
 # Quarantine-ludo (WebRTC Project-2)
 
-## This is a repositiory for project-2
-
 ![Ludo](images/ludo.png "Ludo")
+
+### Significant Update of Project Beta Release
+
+- Implement multi peer connection
+- Implement multi peer Data Channel for chat.
+- Refactored ludo desing code.
+
+    <img width="1434" alt="Screen Shot 2020-12-11 at 11 48 51 AM" src="https://user-images.githubusercontent.com/54300222/101870204-2918cb00-3ba7-11eb-8eda-4e0889c2f6fd.png">
+
+### Our Future plans are:
+
+- Allow user to set the microphone and video permissions before joining call.
+- Allow users to download the chat transcript.
+- mplement 4 player ludo game logic.
 
 ## Equipment
 
@@ -33,17 +45,3 @@ If a piece lands upon a piece of the same colour, this forms a block. This block
 When a piece has circumnavigated the board, it proceeds up the home column. A piece can only be moved onto the home triangle by an exact throw.
 
 The first person to move all 4 pieces into the home triangle wins.
-
-### Our Future plans are:
-
-- Allow user to set the microphone and video permissions before joining call.
-- Allow users to download the chat transcript.
-- mplement 4 player ludo game logic.
-
-### Significant Update of Project Beta Release
-
-- Implement multi peer connection
-- Implement multi peer Data Channel for chat.
-- Refactored ludo desing code.
-
-    <img width="1434" alt="Screen Shot 2020-12-11 at 11 48 51 AM" src="https://user-images.githubusercontent.com/54300222/101870204-2918cb00-3ba7-11eb-8eda-4e0889c2f6fd.png">
